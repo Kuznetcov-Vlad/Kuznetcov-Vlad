@@ -1,6 +1,8 @@
 ## Hi there 👋
 <h1 align="center">Привет! Я <a href="https://github.com/Kuznetcov-Vlad" target="_blank">Владислав</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p align="center">
+  <img src="https://hits.sh/github.com/Kuznetcov-Vlad.svg?style=flat-square&label=Просмотры&color=blue" alt="Profile Views" />
+</p>
 <h3 align="center">Студент, будущий разработчик из России 🇷🇺</h3>
 
 <p align="center">
